@@ -4,7 +4,7 @@
 }
 
 .bg-black{
-    background: #093b3d;
+    background: #892a34;
     color:#fff;
 }
 
@@ -16,6 +16,11 @@ width: 30%;
 opacity: 0.8;
 cursor: pointer;
 
+}
+
+.gallery {
+    width:  265px;
+     height:265px;
 }
 
 @media(min-width: 1199px){
